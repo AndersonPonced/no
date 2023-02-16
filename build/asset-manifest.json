@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2673f2c1.css",
+    "main.js": "/static/js/main.5c91a44e.js",
+    "static/media/luna.jpg": "/static/media/luna.c180c3bdf734437a9c4d.jpg",
+    "static/media/estudio.jpg": "/static/media/estudio.d27c949bb4a2a1360265.jpg",
+    "static/media/node.png": "/static/media/node.026e4f503d8e3d32a960.png",
+    "static/media/dubron.jpg": "/static/media/dubron.cd146e8259e4688a1d24.jpg",
+    "static/media/leon.png": "/static/media/leon.119d6fe266e270b8d4fa.png",
+    "static/media/back.png": "/static/media/back.d5fb2fca37c526b6c25a.png",
+    "static/media/lol.png": "/static/media/lol.377ee999ecfaca0980e1.png",
+    "static/media/cv.pdf": "/static/media/cv.73ac92267ae0e9359b7a.pdf",
+    "static/media/front.png": "/static/media/front.78123ecad22439347f7f.png",
+    "static/media/perfil.jpg": "/static/media/perfil.b7f60072899976e2c8a8.jpg",
+    "static/media/css.png": "/static/media/css.3b0cb14b91cbdddcdef7.png",
+    "static/media/sass.png": "/static/media/sass.2e2618ef90e1d7132081.png",
+    "static/media/mysql.png": "/static/media/mysql.6a92b45d5d1f811cb700.png",
+    "static/media/javascript.png": "/static/media/javascript.166865dacb77d214f485.png",
+    "static/media/react.png": "/static/media/react.20adfb35ae6a6e5817bf.png",
+    "static/media/git.png": "/static/media/git.dfdd0989ffe0184bdd68.png",
+    "static/media/html.png": "/static/media/html.acda7e143cd12b8a0f95.png",
+    "index.html": "/index.html",
+    "main.2673f2c1.css.map": "/static/css/main.2673f2c1.css.map",
+    "main.5c91a44e.js.map": "/static/js/main.5c91a44e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2673f2c1.css",
+    "static/js/main.5c91a44e.js"
+  ]
+}
